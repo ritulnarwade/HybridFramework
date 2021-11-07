@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="166400" started-at="2021-11-07T12:25:07 IST" finished-at="2021-11-07T12:27:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="166400" started-at="2021-11-07T12:25:07 IST" finished-at="2021-11-07T12:27:53 IST">
+      <class name="com.mindtree.runner.AtlanticBook">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.mindtree.runner.AtlanticBook@77f99a05]" name="initialize" is-config="true" duration-ms="37367" started-at="2021-11-07T12:25:07 IST" finished-at="2021-11-07T12:25:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="landingpagenavigation()[pri:1, instance:com.mindtree.runner.AtlanticBook@77f99a05]" name="landingpagenavigation" duration-ms="106338" started-at="2021-11-07T12:25:44 IST" finished-at="2021-11-07T12:27:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingpagenavigation -->
+        <test-method status="PASS" signature="searchpagenav()[pri:2, instance:com.mindtree.runner.AtlanticBook@77f99a05]" name="searchpagenav" duration-ms="21627" started-at="2021-11-07T12:27:31 IST" finished-at="2021-11-07T12:27:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchpagenav -->
+        <test-method status="PASS" signature="teatdown()[pri:0, instance:com.mindtree.runner.AtlanticBook@77f99a05]" name="teatdown" is-config="true" duration-ms="896" started-at="2021-11-07T12:27:52 IST" finished-at="2021-11-07T12:27:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatdown -->
+      </class> <!-- com.mindtree.runner.AtlanticBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
