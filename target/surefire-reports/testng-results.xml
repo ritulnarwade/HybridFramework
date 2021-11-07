@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="50606" started-at="2021-11-07T15:24:34 IST" finished-at="2021-11-07T15:25:25 IST">
+  <suite name="Suite" duration-ms="61542" started-at="2021-11-07T19:17:50 IST" finished-at="2021-11-07T19:18:52 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="50606" started-at="2021-11-07T15:24:34 IST" finished-at="2021-11-07T15:25:25 IST">
+    <test name="Test" duration-ms="61542" started-at="2021-11-07T19:17:50 IST" finished-at="2021-11-07T19:18:52 IST">
       <class name="com.mindtree.runner.AtlanticBook">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="initialize" is-config="true" duration-ms="31749" started-at="2021-11-07T15:24:34 IST" finished-at="2021-11-07T15:25:06 IST">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="initialize" is-config="true" duration-ms="32520" started-at="2021-11-07T19:17:50 IST" finished-at="2021-11-07T19:18:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="landingpagenavigation()[pri:1, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="landingpagenavigation" duration-ms="5181" started-at="2021-11-07T15:25:06 IST" finished-at="2021-11-07T15:25:11 IST">
+        <test-method status="PASS" signature="landingpagenavigation()[pri:1, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="landingpagenavigation" duration-ms="9005" started-at="2021-11-07T19:18:23 IST" finished-at="2021-11-07T19:18:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingpagenavigation -->
-        <test-method status="PASS" signature="searchpagenav()[pri:2, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="searchpagenav" duration-ms="11977" started-at="2021-11-07T15:25:11 IST" finished-at="2021-11-07T15:25:23 IST">
+        <test-method status="PASS" signature="searchpagenav()[pri:2, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="searchpagenav" duration-ms="18634" started-at="2021-11-07T19:18:32 IST" finished-at="2021-11-07T19:18:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchpagenav -->
-        <test-method status="PASS" signature="teatdown()[pri:0, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="teatdown" is-config="true" duration-ms="1651" started-at="2021-11-07T15:25:23 IST" finished-at="2021-11-07T15:25:25 IST">
+        <test-method status="PASS" signature="teatdown()[pri:0, instance:com.mindtree.runner.AtlanticBook@6a4f787b]" name="teatdown" is-config="true" duration-ms="1282" started-at="2021-11-07T19:18:50 IST" finished-at="2021-11-07T19:18:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teatdown -->
